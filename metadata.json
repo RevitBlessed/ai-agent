@@ -1,0 +1,650 @@
+[
+  {
+    "id": 1,
+    "tag": "button",
+    "description": "Средство запуска приложений",
+    "center_point": {
+      "x": 24,
+      "y": 24
+    }
+  },
+  {
+    "id": 2,
+    "tag": "a",
+    "description": "Перейти к Outlook",
+    "center_point": {
+      "x": 85,
+      "y": 24
+    }
+  },
+  {
+    "id": 3,
+    "tag": "div",
+    "description": "",
+    "center_point": {
+      "x": 439,
+      "y": 24
+    }
+  },
+  {
+    "id": 4,
+    "tag": "input",
+    "description": "Поиск",
+    "center_point": {
+      "x": 448,
+      "y": 23
+    }
+  },
+  {
+    "id": 5,
+    "tag": "button",
+    "description": " Начать собрание",
+    "center_point": {
+      "x": 906,
+      "y": 25
+    }
+  },
+  {
+    "id": 6,
+    "tag": "button",
+    "description": "Teams",
+    "center_point": {
+      "x": 1016,
+      "y": 24
+    }
+  },
+  {
+    "id": 7,
+    "tag": "button",
+    "description": "Лента OneNote",
+    "center_point": {
+      "x": 1064,
+      "y": 24
+    }
+  },
+  {
+    "id": 8,
+    "tag": "button",
+    "description": "Мой день",
+    "center_point": {
+      "x": 1112,
+      "y": 24
+    }
+  },
+  {
+    "id": 9,
+    "tag": "button",
+    "description": "Уведомления",
+    "center_point": {
+      "x": 1160,
+      "y": 24
+    }
+  },
+  {
+    "id": 10,
+    "tag": "button",
+    "description": "Параметры",
+    "center_point": {
+      "x": 1208,
+      "y": 24
+    }
+  },
+  {
+    "id": 11,
+    "tag": "button",
+    "description": "Диспетчер учетных записей пользователя 11121 12212",
+    "center_point": {
+      "x": 1256,
+      "y": 24
+    }
+  },
+  {
+    "id": 12,
+    "tag": "button",
+    "description": "Почта",
+    "center_point": {
+      "x": 24,
+      "y": 71
+    }
+  },
+  {
+    "id": 13,
+    "tag": "button",
+    "description": "Календарь",
+    "center_point": {
+      "x": 24,
+      "y": 117
+    }
+  },
+  {
+    "id": 14,
+    "tag": "button",
+    "description": "Люди",
+    "center_point": {
+      "x": 24,
+      "y": 163
+    }
+  },
+  {
+    "id": 15,
+    "tag": "button",
+    "description": "To Do",
+    "center_point": {
+      "x": 24,
+      "y": 209
+    }
+  },
+  {
+    "id": 16,
+    "tag": "button",
+    "description": "Word",
+    "center_point": {
+      "x": 24,
+      "y": 255
+    }
+  },
+  {
+    "id": 17,
+    "tag": "button",
+    "description": "Excel",
+    "center_point": {
+      "x": 24,
+      "y": 301
+    }
+  },
+  {
+    "id": 18,
+    "tag": "button",
+    "description": "PowerPoint",
+    "center_point": {
+      "x": 24,
+      "y": 347
+    }
+  },
+  {
+    "id": 19,
+    "tag": "button",
+    "description": "",
+    "center_point": {
+      "x": 24,
+      "y": 390
+    }
+  },
+  {
+    "id": 20,
+    "tag": "div",
+    "description": "Лента",
+    "center_point": {
+      "x": 664,
+      "y": 86
+    }
+  },
+  {
+    "id": 21,
+    "tag": "button",
+    "description": "Скрыть область навигации",
+    "center_point": {
+      "x": 79,
+      "y": 64
+    }
+  },
+  {
+    "id": 22,
+    "tag": "button",
+    "description": "Файл",
+    "center_point": {
+      "x": 129,
+      "y": 64
+    }
+  },
+  {
+    "id": 23,
+    "tag": "button",
+    "description": "Главная",
+    "center_point": {
+      "x": 196,
+      "y": 64
+    }
+  },
+  {
+    "id": 24,
+    "tag": "button",
+    "description": "Просмотреть",
+    "center_point": {
+      "x": 288,
+      "y": 64
+    }
+  },
+  {
+    "id": 25,
+    "tag": "button",
+    "description": "Справка",
+    "center_point": {
+      "x": 381,
+      "y": 64
+    }
+  },
+  {
+    "id": 26,
+    "tag": "button",
+    "description": "Новое сообщение",
+    "center_point": {
+      "x": 145,
+      "y": 104
+    }
+  },
+  {
+    "id": 27,
+    "tag": "button",
+    "description": "Развернуть для отображения дополнительных новых возможностей",
+    "center_point": {
+      "x": 241,
+      "y": 104
+    }
+  },
+  {
+    "id": 28,
+    "tag": "button",
+    "description": "Удалить",
+    "center_point": {
+      "x": 271,
+      "y": 104
+    }
+  },
+  {
+    "id": 29,
+    "tag": "button",
+    "description": "Развернуть, чтобы увидеть параметры удаления",
+    "center_point": {
+      "x": 294,
+      "y": 104
+    }
+  },
+  {
+    "id": 30,
+    "tag": "button",
+    "description": "Архивировать",
+    "center_point": {
+      "x": 319,
+      "y": 104
+    }
+  },
+  {
+    "id": 31,
+    "tag": "button",
+    "description": "Сообщить",
+    "center_point": {
+      "x": 349,
+      "y": 104
+    }
+  },
+  {
+    "id": 32,
+    "tag": "button",
+    "description": "Развернуть, чтобы увидеть дополнительные варианты сообщения",
+    "center_point": {
+      "x": 372,
+      "y": 104
+    }
+  },
+  {
+    "id": 33,
+    "tag": "button",
+    "description": "Переместить в",
+    "center_point": {
+      "x": 404,
+      "y": 104
+    }
+  },
+  {
+    "id": 34,
+    "tag": "button",
+    "description": "Ответить всем",
+    "center_point": {
+      "x": 450,
+      "y": 104
+    }
+  },
+  {
+    "id": 35,
+    "tag": "button",
+    "description": "Развернуть, чтобы увидеть больше вариантов ответа",
+    "center_point": {
+      "x": 473,
+      "y": 104
+    }
+  },
+  {
+    "id": 36,
+    "tag": "button",
+    "description": "Пометить все как прочитанные",
+    "center_point": {
+      "x": 611,
+      "y": 104
+    }
+  },
+  {
+    "id": 37,
+    "tag": "button",
+    "description": "Пометить или снять пометку",
+    "center_point": {
+      "x": 744,
+      "y": 104
+    }
+  },
+  {
+    "id": 38,
+    "tag": "button",
+    "description": "Развернуть, чтобы просмотреть параметры флажков",
+    "center_point": {
+      "x": 767,
+      "y": 104
+    }
+  },
+  {
+    "id": 39,
+    "tag": "button",
+    "description": "Другие приложения",
+    "center_point": {
+      "x": 801,
+      "y": 104
+    }
+  },
+  {
+    "id": 40,
+    "tag": "button",
+    "description": "Поиск групп",
+    "center_point": {
+      "x": 842,
+      "y": 104
+    }
+  },
+  {
+    "id": 41,
+    "tag": "button",
+    "description": "Отменить",
+    "center_point": {
+      "x": 883,
+      "y": 104
+    }
+  },
+  {
+    "id": 42,
+    "tag": "button",
+    "description": "Дополнительные параметры",
+    "center_point": {
+      "x": 924,
+      "y": 104
+    }
+  },
+  {
+    "id": 43,
+    "tag": "button",
+    "description": "Переключить макеты",
+    "center_point": {
+      "x": 1244,
+      "y": 110
+    }
+  },
+  {
+    "id": 44,
+    "tag": "div",
+    "description": "Область навигации",
+    "center_point": {
+      "x": 157,
+      "y": 422
+    }
+  },
+  {
+    "id": 45,
+    "tag": "div",
+    "description": " Избранные",
+    "center_point": {
+      "x": 152,
+      "y": 156
+    }
+  },
+  {
+    "id": 46,
+    "tag": "button",
+    "description": "",
+    "center_point": {
+      "x": 70,
+      "y": 154
+    }
+  },
+  {
+    "id": 47,
+    "tag": "div",
+    "description": " Входящие",
+    "center_point": {
+      "x": 152,
+      "y": 192
+    }
+  },
+  {
+    "id": 48,
+    "tag": "div",
+    "description": " Черновики",
+    "center_point": {
+      "x": 152,
+      "y": 228
+    }
+  },
+  {
+    "id": 49,
+    "tag": "div",
+    "description": " Архив",
+    "center_point": {
+      "x": 152,
+      "y": 264
+    }
+  },
+  {
+    "id": 50,
+    "tag": "div",
+    "description": " tetsttttttt2026@outlook.com",
+    "center_point": {
+      "x": 152,
+      "y": 312
+    }
+  },
+  {
+    "id": 51,
+    "tag": "button",
+    "description": "",
+    "center_point": {
+      "x": 70,
+      "y": 310
+    }
+  },
+  {
+    "id": 52,
+    "tag": "div",
+    "description": " Входящие выбрано",
+    "center_point": {
+      "x": 152,
+      "y": 348
+    }
+  },
+  {
+    "id": 53,
+    "tag": "div",
+    "description": " Нежелательная почта",
+    "center_point": {
+      "x": 152,
+      "y": 384
+    }
+  },
+  {
+    "id": 54,
+    "tag": "div",
+    "description": " Черновики",
+    "center_point": {
+      "x": 152,
+      "y": 420
+    }
+  },
+  {
+    "id": 55,
+    "tag": "div",
+    "description": " Отправленные",
+    "center_point": {
+      "x": 152,
+      "y": 456
+    }
+  },
+  {
+    "id": 56,
+    "tag": "div",
+    "description": " Удаленные",
+    "center_point": {
+      "x": 152,
+      "y": 492
+    }
+  },
+  {
+    "id": 57,
+    "tag": "div",
+    "description": " Архив",
+    "center_point": {
+      "x": 152,
+      "y": 528
+    }
+  },
+  {
+    "id": 58,
+    "tag": "div",
+    "description": " Журнал бесед",
+    "center_point": {
+      "x": 152,
+      "y": 564
+    }
+  },
+  {
+    "id": 59,
+    "tag": "div",
+    "description": " Заметки",
+    "center_point": {
+      "x": 152,
+      "y": 600
+    }
+  },
+  {
+    "id": 60,
+    "tag": "div",
+    "description": " Перейти к группам",
+    "center_point": {
+      "x": 152,
+      "y": 648
+    }
+  },
+  {
+    "id": 61,
+    "tag": "div",
+    "description": " Скачайте мобильное приложение Outlook. Оставайтесь на связи в поездках.",
+    "center_point": {
+      "x": 157,
+      "y": 664
+    }
+  },
+  {
+    "id": 62,
+    "tag": "button",
+    "description": " Скачайте мобильное приложение Outlook. Оставайтесь на связи в поездках.",
+    "center_point": {
+      "x": 157,
+      "y": 664
+    }
+  },
+  {
+    "id": 63,
+    "tag": "div",
+    "description": "Список сообщений",
+    "center_point": {
+      "x": 440,
+      "y": 426
+    }
+  },
+  {
+    "id": 64,
+    "tag": "button",
+    "description": "Отсортированные",
+    "center_point": {
+      "x": 406,
+      "y": 154
+    }
+  },
+  {
+    "id": 65,
+    "tag": "button",
+    "description": "Другие",
+    "center_point": {
+      "x": 517,
+      "y": 154
+    }
+  },
+  {
+    "id": 66,
+    "tag": "button",
+    "description": "Выделить",
+    "center_point": {
+      "x": 491,
+      "y": 154
+    }
+  },
+  {
+    "id": 67,
+    "tag": "button",
+    "description": "Перейти к",
+    "center_point": {
+      "x": 523,
+      "y": 154
+    }
+  },
+  {
+    "id": 68,
+    "tag": "button",
+    "description": "Фильтр",
+    "center_point": {
+      "x": 555,
+      "y": 154
+    }
+  },
+  {
+    "id": 69,
+    "tag": "button",
+    "description": "Отсортировано: Автор: Дата",
+    "center_point": {
+      "x": 587,
+      "y": 154
+    }
+  },
+  {
+    "id": 70,
+    "tag": "div",
+    "description": "Список сообщений Беседы не выбраны",
+    "center_point": {
+      "x": 440,
+      "y": 448
+    }
+  },
+  {
+    "id": 71,
+    "tag": "div",
+    "description": "Выбрать беседу",
+    "center_point": {
+      "x": 313,
+      "y": 205
+    }
+  },
+  {
+    "id": 72,
+    "tag": "div",
+    "description": "Панель чтения",
+    "center_point": {
+      "x": 949,
+      "y": 422
+    }
+  }
+]
