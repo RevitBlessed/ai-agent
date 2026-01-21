@@ -1,3 +1,5 @@
+https://drive.google.com/file/d/1FsNCUts8n7pb_xMHjtEore2KIqFyiq2L/view
+
 ## Главная точка входа
 
 `send_to_gemini.py` — основной файл для запуска проекта. Его запуск стартует
