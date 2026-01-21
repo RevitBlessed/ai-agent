@@ -15,8 +15,6 @@ https://drive.google.com/file/d/1FsNCUts8n7pb_xMHjtEore2KIqFyiq2L/view
   модели.
 - `planner_prompt.txt` содержит системный промпт для модели‑планировщика.
 - `executor_prompt.txt` содержит системный промпт для модели‑исполнителя.
-- `master_prompt.txt` — опциональный шаблон промпта для справки (не используется
-  в `send_to_gemini.py`).
 - `metadata.json` и `avito_marked.png` — генерируемые результаты аннотатора.
 - `dialog_history.json` хранит историю диалога/наблюдений.
 - `global_goal.json` хранит последнюю цель пользователя.
